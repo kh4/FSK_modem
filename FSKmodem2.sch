@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.2">
+<eagle version="7.1.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6198,9 +6198,9 @@ Reichelt
 <part name="Q1" library="murata-resonators" deviceset="CSTLS_G" device=""/>
 <part name="C1" library="rcl" deviceset="C-EU" device="050-024X044" value="100n"/>
 <part name="C2" library="rcl" deviceset="C-EU" device="050-024X044" value="100n"/>
-<part name="R1" library="rcl" deviceset="R-EU_" device="0204/7" value="18k"/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="0204/7" value="5k6"/>
-<part name="R3" library="rcl" deviceset="R-EU_" device="0204/7" value="33k"/>
+<part name="R1" library="rcl" deviceset="R-EU_" device="0204/5" value="18k"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="0204/5" value="5k6"/>
+<part name="R3" library="rcl" deviceset="R-EU_" device="0204/5" value="33k"/>
 </parts>
 <sheets>
 <sheet>
